@@ -7,11 +7,13 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on INFINITAS by Krungthai.
-- 🌱 I’m currently learning Trading Stocks for Beginners
-- 👯 I’m looking to collaborate on Future
-- 🤔 I’m looking for help with Anything That Makes Me Rich
-- 💬 Ask me about System analyst and Trading 
-- 📫 How to reach me: https://www.facebook.com/fluke.dev
-- 😄 Pronouns: Fluke
-- ⚡ Fun fact: Up To Your 
+- 🌱 I’m currently learning AI ( claude, codex and gemini etc.)
+- 👯 I’m looking to collaborate on The future
+- 🤔 I’m looking for help with Anything That Makes Me to be millionaire
+- 💬 Ask me about System analyst and AI tool.
+- 📫 How to reach me: https://www.linkedin.com/in/flukedev8
+- 😄 Pronouns: Fluke Tech
+- ⚡ Fun fact: I am the owner of the website: https://checkpassadu.com/
+
+
 
